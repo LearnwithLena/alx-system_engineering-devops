@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -aR | find . -empty -print
+find -mindepth 1 -empty -print
