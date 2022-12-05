@@ -1,0 +1,2 @@
+#!/bin/bash
+head -n 3 iacta | tail -n 1 #Take three lines on top and the last of the three
