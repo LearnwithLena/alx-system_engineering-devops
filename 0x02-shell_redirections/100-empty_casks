@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -size 0 | ls -a
+find . -empty | rev | cut -d '/' -f 1 | rev
