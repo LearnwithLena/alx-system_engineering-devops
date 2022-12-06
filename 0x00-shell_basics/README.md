@@ -33,5 +33,3 @@ All of the following files are scripts, except `holberton.mgc`:
 | `17-tree` | Creates the directories `welcome/`, `welcome/to/` and `welcome/to/holberton` in the current directory |
 | `18-commas` | Lists all the files and directories of the current directory, separated by commas (`,`) |
 | `19-school.mgc` | Magic file that can be used with the command `file` to detect `School` data files. `School` data files always contain the string `SCHOOL` at offset 0 |
-
-# Source- Edited from https://github.com/luischaparroc/holberton-system_engineering-devops/blob/6a3d58dc78e124931bc3917e1bf07a6f3853f931/0x00-shell_basics/README.md?plain=1
